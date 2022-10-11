@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - I am here for u
+- exp..
 
 <!---
 newrise12/newrise12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
